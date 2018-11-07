@@ -6,6 +6,8 @@
 [![NPM](https://img.shields.io/npm/v/webthing-iotjs.svg)](https://www.npmjs.com/package/webthing-iotjs)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frzr%2Fwebthing-iotjs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frzr%2Fwebthing-iotjs?ref=badge_shield)
 
+[![Presentation](https://image.slidesharecdn.com/webthing-iotjs-20181022rzr-181027220201/95/webthingiotjs20181022rzr-1-638.jpg)](https://www.slideshare.net/slideshow/embed_code/key/BGdKOn9HHRF4Oa#webthing-iotjs# "WebThingIotJs")
+
 
 ## DISCLAIMER: ##
 
@@ -56,7 +58,7 @@ Then this thing can be connected to gateway, and rules configured to use the act
 
 ## GUIDE: ##
 
-For more insights and details please guide:
+For more insights and details please follow guide about setting up gateway, iotjs and demos howtos:
 
 * https://github.com/rzr/webthing-iotjs/wiki
 
